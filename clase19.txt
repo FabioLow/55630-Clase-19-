@@ -1,0 +1,2 @@
+# Buenas practicas:
+1) Hacer las URL en el path de cada app y solo agregar al path de proyecto lo siguiente: 
